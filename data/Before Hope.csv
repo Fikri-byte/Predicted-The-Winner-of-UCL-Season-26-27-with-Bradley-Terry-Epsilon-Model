@@ -1,0 +1,741 @@
+,Team,Comp,Venue,Result,GF,GA,Opponent
+1,Arsenal,Premier League,Away,W,2,0,Aston Villa
+2,Arsenal,Premier League,Away,D,2,2,Manchester City
+3,Arsenal,Champions Lg,Home,W,2,0,Paris SG
+4,Arsenal,Champions Lg,Home,W,1,0,Shakhtar D.
+5,Arsenal,Premier League,Home,D,2,2,Liverpool
+6,Arsenal,Champions Lg,Away,L,0,1,Inter
+7,Arsenal,Champions Lg,Away,W,5,1,Sporting CP
+8,Arsenal,Premier League,Home,W,2,0,Manchester Utd
+9,Arsenal,Premier League,Home,D,2,2,Aston Villa
+10,Arsenal,Premier League,Home,W,5,1,Manchester City
+11,Arsenal,Champions Lg,Away,W,7,1,PSV
+12,Arsenal,Premier League,Away,D,1,1,Manchester Utd
+13,Arsenal,Champions Lg,Home,D,2,2,PSV
+14,Arsenal,Champions Lg,Home,W,3,0,Real Madrid
+15,Arsenal,Champions Lg,Away,W,2,1,Real Madrid
+16,Arsenal,Champions Lg,Home,L,0,1,Paris SG
+17,Arsenal,Champions Lg,Away,L,1,2,Paris SG
+18,Arsenal,Premier League,Away,D,2,2,Liverpool
+19,Arsenal,Premier League,Away,W,1,0,Manchester Utd
+20,Arsenal,Premier League,Away,L,0,1,Liverpool
+21,Arsenal,Premier League,Home,D,1,1,Manchester City
+22,Arsenal,Champions Lg,Home,W,4,0,Atlético Madrid
+23,Arsenal,Champions Lg,Away,W,3,0,Slavia Prague
+24,Arsenal,Champions Lg,Home,W,3,1,Bayern Munich
+25,Arsenal,Premier League,Away,L,1,2,Aston Villa
+26,Arsenal,Champions Lg,Away,W,3,0,Club Brugge
+27,Arsenal,Premier League,Home,W,4,1,Aston Villa
+28,Arsenal,Premier League,Home,D,0,0,Liverpool
+29,Arsenal,Champions Lg,Away,W,3,1,Inter
+30,Arsenal,Premier League,Home,L,2,3,Manchester Utd
+31,Arsenal,EFL Cup,Neutral,L,0,2,Manchester City
+32,Arsenal,Champions Lg,Away,W,1,0,Sporting CP
+33,Arsenal,Champions Lg,Home,D,0,0,Sporting CP
+34,Arsenal,Premier League,Away,L,1,2,Manchester City
+35,Arsenal,Champions Lg,Away,D,1,1,Atlético Madrid
+36,Arsenal,Champions Lg,Home,W,1,0,Atlético Madrid
+37,Arsenal,Champions Lg,Neutral,D,1 (3),1 (4),Paris SG
+38,Arsenal,FA Community Shield,Neutral,W,3,0,Manchester City
+39,Arsenal,Premier League,Away,W,1,0,Aston Villa
+40,Arsenal,Champions Lg,Away,W,1,0,Napoli
+41,Manchester City,FA Community Shield,Home,D,1 (7),1 (6),Manchester Utd
+42,Manchester City,Champions Lg,Home,D,0,0,Inter
+43,Manchester City,Champions Lg,Away,L,1,4,Sporting CP
+44,Manchester City,Premier League,Away,L,0,2,Liverpool
+45,Manchester City,Premier League,Home,L,1,2,Manchester Utd
+46,Manchester City,Premier League,Away,L,1,2,Aston Villa
+47,Manchester City,Champions Lg,Away,L,2,4,Paris SG
+48,Manchester City,Champions Lg,Home,W,3,1,Club Brugge
+49,Manchester City,Champions Lg,Home,L,2,3,Real Madrid
+50,Manchester City,Champions Lg,Away,L,1,3,Real Madrid
+51,Manchester City,Premier League,Home,L,0,2,Liverpool
+52,Manchester City,Premier League,Away,D,0,0,Manchester Utd
+53,Manchester City,Premier League,Home,W,2,1,Aston Villa
+54,Manchester City,Premier League,Home,W,3,0,Manchester Utd
+55,Manchester City,Champions Lg,Home,W,2,0,Napoli
+56,Manchester City,Premier League,Away,L,0,1,Aston Villa
+57,Manchester City,Champions Lg,Home,W,4,1,Dortmund
+58,Manchester City,Premier League,Home,W,3,0,Liverpool
+59,Manchester City,Champions Lg,Away,W,2,1,Real Madrid
+60,Manchester City,Premier League,Away,L,0,2,Manchester Utd
+61,Manchester City,Premier League,Away,W,2,1,Liverpool
+62,Manchester City,Champions Lg,Away,L,0,3,Real Madrid
+63,Manchester City,Champions Lg,Home,L,1,2,Real Madrid
+64,Manchester City,FA Cup,Home,W,4,0,Liverpool
+65,Manchester City,Premier League,Home,L,1,2,Aston Villa
+66,Manchester City,Premier League,Away,W,1,0,Manchester Utd
+67,Manchester City,Premier League,Home,D,2,2,Arsenal
+68,Manchester City,Champions Lg,Away,W,4,0,Slovan Bratislava
+69,Manchester City,Champions Lg,Home,D,3,3,Feyenoord
+70,Manchester City,Premier League,Away,L,1,5,Arsenal
+71,Manchester City,Premier League,Away,D,1,1,Arsenal
+72,Manchester City,Champions Lg,Away,W,2,0,Villarreal
+73,Manchester City,Champions Lg,Away,L,1,3,Bodø/Glimt
+74,Manchester City,Champions Lg,Home,W,2,0,Galatasaray
+75,Manchester City,EFL Cup,Neutral,W,2,0,Arsenal
+76,Manchester City,Premier League,Home,W,2,1,Arsenal
+77,Manchester City,FA Community Shield,Neutral,L,0,3,Arsenal
+78,Manchester City,Champions Lg,Away,W,2,0,Porto
+79,Machester United,FA Community Shield,Away,D,1 (6),1 (7),Manchester City
+80,Machester United,Premier League,Home,L,0,3,Liverpool
+81,Machester United,Europa Lg,Away,D,3,3,Porto
+82,Machester United,Premier League,Away,D,0,0,Aston Villa
+83,Machester United,Europa Lg,Away,D,1,1,Fenerbahçe
+84,Machester United,Europa Lg,Home,W,3,2,Bodø/Glimt
+85,Machester United,Premier League,Away,L,0,2,Arsenal
+86,Machester United,Premier League,Away,W,2,1,Manchester City
+87,Machester United,Premier League,Away,D,2,2,Liverpool
+88,Machester United,Premier League,Home,D,1,1,Arsenal
+89,Machester United,Premier League,Home,D,0,0,Manchester City
+90,Machester United,Premier League,Home,W,2,0,Aston Villa
+91,Machester United,Premier League,Home,L,0,1,Arsenal
+92,Machester United,Premier League,Away,L,0,3,Manchester City
+93,Machester United,Premier League,Away,W,2,1,Liverpool
+94,Machester United,Premier League,Away,L,1,2,Aston Villa
+95,Machester United,Premier League,Home,W,2,0,Manchester City
+96,Machester United,Premier League,Away,W,3,2,Arsenal
+97,Machester United,Premier League,Home,W,3,1,Aston Villa
+98,Machester United,Premier League,Home,W,3,2,Liverpool
+99,Machester United,Champions Lg,Home,W,4,0,Sabah FK
+100,Machester United,Premier League,Home,L,0,1,Manchester City
+101,Aston Villa,Premier League,Home,L,0,2,Arsenal
+102,Aston Villa,Champions Lg,Home,W,1,0,Bayern Munich
+103,Aston Villa,Premier League,Home,D,0,0,Manchester Utd
+104,Aston Villa,Champions Lg,Away,L,0,1,Club Brugge
+105,Aston Villa,Premier League,Away,L,0,2,Liverpool
+106,Aston Villa,Champions Lg,Away,W,3,2,RB Leipzig
+107,Aston Villa,Premier League,Home,W,2,1,Manchester City
+108,Aston Villa,Premier League,Away,D,2,2,Arsenal
+109,Aston Villa,Premier League,Home,D,2,2,Liverpool
+110,Aston Villa,Champions Lg,Away,W,3,1,Club Brugge
+111,Aston Villa,Champions Lg,Home,W,3,0,Club Brugge
+112,Aston Villa,Champions Lg,Away,L,1,3,Paris SG
+113,Aston Villa,Champions Lg,Home,W,3,2,Paris SG
+114,Aston Villa,Premier League,Away,L,1,2,Manchester City
+115,Aston Villa,Premier League,Away,L,0,2,Manchester Utd
+116,Aston Villa,Europa Lg,Away,W,2,0,Feyenoord
+117,Aston Villa,Premier League,Home,W,1,0,Manchester City
+118,Aston Villa,Premier League,Away,L,0,2,Liverpool
+119,Aston Villa,Premier League,Home,W,2,1,Arsenal
+120,Aston Villa,Premier League,Home,W,2,1,Manchester Utd
+121,Aston Villa,Premier League,Away,L,1,4,Arsenal
+122,Aston Villa,Europa Lg,Away,W,1,0,Fenerbahçe
+123,Aston Villa,Europa Lg,Away,W,1,0,Lille
+124,Aston Villa,Premier League,Away,L,1,3,Manchester Utd
+125,Aston Villa,Europa Lg,Home,W,2,0,Lille
+126,Aston Villa,Premier League,Home,W,4,2,Liverpool
+127,Aston Villa,Premier League,Away,W,2,1,Manchester City
+128,Aston Villa,Super Cup,Neutral,L,1,2,Paris SG
+129,Aston Villa,Premier League,Home,L,0,1,Arsenal
+130,Aston Villa,Champions Lg,Away,W,3,2,Club Brugge
+131,Liverpool,Premier League,Away,W,3,0,Manchester Utd
+132,Liverpool,Champions Lg,Away,W,1,0,RB Leipzig
+133,Liverpool,Premier League,Away,D,2,2,Arsenal
+134,Liverpool,Premier League,Home,W,2,0,Aston Villa
+135,Liverpool,Champions Lg,Home,W,2,0,Real Madrid
+136,Liverpool,Premier League,Home,W,2,0,Manchester City
+137,Liverpool,Premier League,Home,D,2,2,Manchester Utd
+138,Liverpool,Champions Lg,Home,W,2,1,Lille
+139,Liverpool,Champions Lg,Away,L,2,3,PSV
+140,Liverpool,Premier League,Away,D,2,2,Aston Villa
+141,Liverpool,Premier League,Away,W,2,0,Manchester City
+142,Liverpool,Champions Lg,Away,W,1,0,Paris SG
+143,Liverpool,Champions Lg,Home,L,0 (1),1 (4),Paris SG
+144,Liverpool,Premier League,Home,D,2,2,Arsenal
+145,Liverpool,Premier League,Home,W,1,0,Arsenal
+146,Liverpool,Champions Lg,Home,W,3,2,Atlético Madrid
+147,Liverpool,Champions Lg,Away,L,0,1,Galatasaray
+148,Liverpool,Premier League,Home,L,1,2,Manchester Utd
+149,Liverpool,Premier League,Home,W,2,0,Aston Villa
+150,Liverpool,Champions Lg,Home,W,1,0,Real Madrid
+151,Liverpool,Premier League,Away,L,0,3,Manchester City
+152,Liverpool,Champions Lg,Home,L,1,4,PSV
+153,Liverpool,Champions Lg,Away,W,1,0,Inter
+154,Liverpool,Premier League,Away,D,0,0,Arsenal
+155,Liverpool,Premier League,Home,L,1,2,Manchester City
+156,Liverpool,Champions Lg,Away,L,0,1,Galatasaray
+157,Liverpool,Champions Lg,Home,W,4,0,Galatasaray
+158,Liverpool,FA Cup,Away,L,0,4,Manchester City
+159,Liverpool,Champions Lg,Away,L,0,2,Paris SG
+160,Liverpool,Champions Lg,Home,L,0,2,Paris SG
+161,Liverpool,Premier League,Away,L,2,3,Manchester Utd
+162,Liverpool,Premier League,Away,L,2,4,Aston Villa
+163,Liverpool,Champions Lg,Home,W,2,1,Atlético Madrid
+164,Bayern Munich,Champions Lg,Away,L,0,1,Aston Villa
+165,Bayern Munich,Bundesliga,Home,W,4,0,Stuttgart
+166,Bayern Munich,Champions Lg,Away,L,1,4,Barcelona
+167,Bayern Munich,Champions Lg,Home,W,1,0,Paris SG
+168,Bayern Munich,Bundesliga,Away,D,1,1,Dortmund
+169,Bayern Munich,Champions Lg,Away,W,5,1,Shakhtar D.
+170,Bayern Munich,Bundesliga,Home,W,5,1,RB Leipzig
+171,Bayern Munich,Champions Lg,Away,L,0,3,Feyenoord
+172,Bayern Munich,Champions Lg,Home,W,3,1,Slovan Bratislava
+173,Bayern Munich,Bundesliga,Away,W,3,1,Stuttgart
+174,Bayern Munich,Champions Lg,Home,L,1,2,Inter
+175,Bayern Munich,Bundesliga,Home,D,2,2,Dortmund
+176,Bayern Munich,Champions Lg,Away,D,2,2,Inter
+177,Bayern Munich,Bundesliga,Away,D,3,3,RB Leipzig
+178,Bayern Munich,Club World Cup,Neutral,L,0,2,Paris SG
+179,Bayern Munich,DFL-Supercup,Away,W,2,1,Stuttgart
+180,Bayern Munich,Bundesliga,Home,W,6,0,RB Leipzig
+181,Bayern Munich,Bundesliga,Home,W,2,1,Dortmund
+182,Bayern Munich,Champions Lg,Home,W,4,0,Club Brugge
+183,Bayern Munich,Champions Lg,Away,W,2,1,Paris SG
+184,Bayern Munich,Champions Lg,Away,L,1,3,Arsenal
+185,Bayern Munich,Bundesliga,Away,W,5,0,Stuttgart
+186,Bayern Munich,Champions Lg,Home,W,3,1,Sporting CP
+187,Bayern Munich,Bundesliga,Away,W,5,1,RB Leipzig
+188,Bayern Munich,Champions Lg,Away,W,2,1,PSV
+189,Bayern Munich,DFB-Pokal,Home,W,2,0,RB Leipzig
+190,Bayern Munich,Bundesliga,Away,W,3,2,Dortmund
+191,Bayern Munich,Champions Lg,Away,W,2,1,Real Madrid
+192,Bayern Munich,Champions Lg,Home,W,4,3,Real Madrid
+193,Bayern Munich,Bundesliga,Home,W,4,2,Stuttgart
+194,Bayern Munich,Champions Lg,Away,L,4,5,Paris SG
+195,Bayern Munich,Champions Lg,Home,D,1,1,Paris SG
+196,Bayern Munich,DFB-Pokal,Neutral,W,3,0,Stuttgart
+197,Bayern Munich,DFL-Supercup,Away,W,2,1,Dortmund
+198,Bayern Munich,Bundesliga,Home,W,5,1,Stuttgart
+199,Bayern Munich,Champions Lg,Home,W,5,0,Bodø/Glimt
+200,Borussia Dortmund,Champions Lg,Away,W,3,0,Club Brugge
+201,Borussia Dortmund,Bundesliga,Away,L,1,5,Stuttgart
+202,Borussia Dortmund,Champions Lg,Away,L,2,5,Real Madrid
+203,Borussia Dortmund,Bundesliga,Home,W,2,1,RB Leipzig
+204,Borussia Dortmund,Bundesliga,Home,D,1,1,Bayern Munich
+205,Borussia Dortmund,Champions Lg,Home,L,2,3,Barcelona
+206,Borussia Dortmund,Champions Lg,Home,W,3,1,Shakhtar D.
+207,Borussia Dortmund,Bundesliga,Home,L,1,2,Stuttgart
+208,Borussia Dortmund,Champions Lg,Away,W,3,0,Sporting CP
+209,Borussia Dortmund,Champions Lg,Home,D,0,0,Sporting CP
+210,Borussia Dortmund,Champions Lg,Home,D,1,1,Lille
+211,Borussia Dortmund,Champions Lg,Away,W,2,1,Lille
+212,Borussia Dortmund,Bundesliga,Away,L,0,2,RB Leipzig
+213,Borussia Dortmund,Champions Lg,Away,L,0,4,Barcelona
+214,Borussia Dortmund,Bundesliga,Away,D,2,2,Bayern Munich
+215,Borussia Dortmund,Champions Lg,Home,W,3,1,Barcelona
+216,Borussia Dortmund,Club World Cup,Neutral,L,2,3,Real Madrid
+217,Borussia Dortmund,Bundesliga,Home,D,1,1,RB Leipzig
+218,Borussia Dortmund,Bundesliga,Away,L,1,2,Bayern Munich
+219,Borussia Dortmund,Champions Lg,Away,L,1,4,Manchester City
+220,Borussia Dortmund,Bundesliga,Home,D,3,3,Stuttgart
+221,Borussia Dortmund,Champions Lg,Home,W,4,0,Villarreal
+222,Borussia Dortmund,Champions Lg,Home,D,2,2,Bodø/Glimt
+223,Borussia Dortmund,Champions Lg,Home,L,0,2,Inter
+224,Borussia Dortmund,Bundesliga,Away,D,2,2,RB Leipzig
+225,Borussia Dortmund,Bundesliga,Home,L,2,3,Bayern Munich
+226,Borussia Dortmund,Bundesliga,Away,W,2,0,Stuttgart
+227,Borussia Dortmund,DFL-Supercup,Home,L,1,2,Bayern Munich
+228,Borussia Dortmund,Champions Lg,Home,W,3,2,Villarreal
+229,Borussia Dortmund,Bundesliga,Away,W,1,0,Stuttgart
+230,RB Leipzig,Champions Lg,Away,L,1,2,Atlético Madrid
+231,RB Leipzig,Champions Lg,Home,L,0,1,Liverpool
+232,RB Leipzig,Bundesliga,Away,L,1,2,Dortmund
+233,RB Leipzig,Champions Lg,Away,L,0,1,Inter
+234,RB Leipzig,Champions Lg,Home,L,2,3,Aston Villa
+235,RB Leipzig,Bundesliga,Away,L,1,5,Bayern Munich
+236,RB Leipzig,Bundesliga,Away,L,1,2,Stuttgart
+237,RB Leipzig,Champions Lg,Home,W,2,1,Sporting CP
+238,RB Leipzig,Bundesliga,Home,W,2,0,Dortmund
+239,RB Leipzig,DFB-Pokal,Away,L,1,3,Stuttgart
+240,RB Leipzig,Bundesliga,Home,D,3,3,Bayern Munich
+241,RB Leipzig,Bundesliga,Home,L,2,3,Stuttgart
+242,RB Leipzig,Bundesliga,Away,L,0,6,Bayern Munich
+243,RB Leipzig,Bundesliga,Away,D,1,1,Dortmund
+244,RB Leipzig,Bundesliga,Home,W,3,1,Stuttgart
+245,RB Leipzig,Bundesliga,Home,L,1,5,Bayern Munich
+246,RB Leipzig,DFB-Pokal,Away,L,0,2,Bayern Munich
+247,RB Leipzig,Bundesliga,Home,D,2,2,Dortmund
+248,RB Leipzig,Bundesliga,Away,L,0,1,Stuttgart
+249,RB Leipzig,Champions Lg,Away,L,1,4,Como
+250,VfB Stuttgrat,Champions Lg,Away,L,1,3,Real Madrid
+251,VfB Stuttgrat,Bundesliga,Home,W,5,1,Dortmund
+252,VfB Stuttgrat,Bundesliga,Away,L,0,4,Bayern Munich
+253,VfB Stuttgrat,Bundesliga,Home,W,2,1,RB Leipzig
+254,VfB Stuttgrat,Champions Lg,Away,W,3,1,Slovan Bratislava
+255,VfB Stuttgrat,Champions Lg,Home,L,1,4,Paris SG
+256,VfB Stuttgrat,Bundesliga,Away,W,2,1,Dortmund
+257,VfB Stuttgrat,Bundesliga,Home,L,1,3,Bayern Munich
+258,VfB Stuttgrat,DFB-Pokal,Home,W,3,1,RB Leipzig
+259,VfB Stuttgrat,Bundesliga,Away,W,3,2,RB Leipzig
+260,VfB Stuttgrat,DFL-Supercup,Home,L,1,2,Bayern Munich
+261,VfB Stuttgrat,Europa Lg,Away,L,0,1,Fenerbahçe
+262,VfB Stuttgrat,Bundesliga,Away,L,1,3,RB Leipzig
+263,VfB Stuttgrat,Europa Lg,Home,W,2,0,Feyenoord
+264,VfB Stuttgrat,Bundesliga,Away,D,3,3,Dortmund
+265,VfB Stuttgrat,Bundesliga,Home,L,0,5,Bayern Munich
+266,VfB Stuttgrat,Europa Lg,Away,L,0,2,Roma
+267,VfB Stuttgrat,Europa Lg,Home,L,1,2,Porto
+268,VfB Stuttgrat,Bundesliga,Home,W,1,0,RB Leipzig
+269,VfB Stuttgrat,Europa Lg,Away,L,0,2,Porto
+270,VfB Stuttgrat,Bundesliga,Home,L,0,2,Dortmund
+271,VfB Stuttgrat,Bundesliga,Away,L,2,4,Bayern Munich
+272,VfB Stuttgrat,DFB-Pokal,Neutral,L,0,3,Bayern Munich
+273,VfB Stuttgrat,Bundesliga,Away,L,1,5,Bayern Munich
+274,VfB Stuttgrat,Bundesliga,Home,L,0,1,Dortmund
+275,Barcelona,La Liga,Away,W,5,1,Villarreal
+276,Barcelona,Champions Lg,Home,W,4,1,Bayern Munich
+277,Barcelona,La Liga,Away,W,4,0,Real Madrid
+278,Barcelona,La Liga,Away,D,2,2,Real Betis
+279,Barcelona,Champions Lg,Away,W,3,2,Dortmund
+280,Barcelona,La Liga,Home,L,1,2,Atlético Madrid
+281,Barcelona,Supercopa de España,Neutral,W,5,2,Real Madrid
+282,Barcelona,Copa del Rey,Home,W,5,1,Real Betis
+283,Barcelona,Copa del Rey,Home,D,4,4,Atlético Madrid
+284,Barcelona,La Liga,Away,W,4,2,Atlético Madrid
+285,Barcelona,Copa del Rey,Away,W,1,0,Atlético Madrid
+286,Barcelona,La Liga,Home,D,1,1,Real Betis
+287,Barcelona,Champions Lg,Home,W,4,0,Dortmund
+288,Barcelona,Champions Lg,Away,L,1,3,Dortmund
+289,Barcelona,Copa del Rey,Home,W,3,2,Real Madrid
+290,Barcelona,Champions Lg,Home,D,3,3,Inter
+291,Barcelona,Champions Lg,Away,L,3,4,Inter
+292,Barcelona,La Liga,Home,W,4,3,Real Madrid
+293,Barcelona,La Liga,Home,L,2,3,Villarreal
+294,Barcelona,Champions Lg,Home,L,1,2,Paris SG
+295,Barcelona,La Liga,Away,L,1,2,Real Madrid
+296,Barcelona,Champions Lg,Away,D,3,3,Club Brugge
+297,Barcelona,La Liga,Home,W,3,1,Atlético Madrid
+298,Barcelona,La Liga,Away,W,5,3,Real Betis
+299,Barcelona,La Liga,Away,W,2,0,Villarreal
+300,Barcelona,Supercopa de España,Neutral,W,3,2,Real Madrid
+301,Barcelona,Champions Lg,Away,W,4,2,Slavia Prague
+302,Barcelona,Copa del Rey,Away,L,0,4,Atlético Madrid
+303,Barcelona,La Liga,Home,W,4,1,Villarreal
+304,Barcelona,Copa del Rey,Home,W,3,0,Atlético Madrid
+305,Barcelona,La Liga,Away,W,2,1,Atlético Madrid
+306,Barcelona,Champions Lg,Home,L,0,2,Atlético Madrid
+307,Barcelona,Champions Lg,Away,W,2,1,Atlético Madrid
+308,Barcelona,La Liga,Home,W,2,0,Real Madrid
+309,Barcelona,La Liga,Home,W,3,1,Real Betis
+310,Barcelona,Champions Lg,Home,W,5,1,Feyenoord
+311,Real Madrid,La Liga,Home,W,2,0,Real Betis
+312,Real Madrid,Champions Lg,Home,W,3,1,Stuttgart
+313,Real Madrid,La Liga,Away,D,1,1,Atlético Madrid
+314,Real Madrid,Champions Lg,Away,L,0,1,Lille
+315,Real Madrid,La Liga,Home,W,2,0,Villarreal
+316,Real Madrid,Champions Lg,Home,W,5,2,Dortmund
+317,Real Madrid,La Liga,Home,L,0,4,Barcelona
+318,Real Madrid,Champions Lg,Away,L,0,2,Liverpool
+319,Real Madrid,Supercopa de España,Neutral,L,2,5,Barcelona
+320,Real Madrid,La Liga,Home,D,1,1,Atlético Madrid
+321,Real Madrid,Champions Lg,Away,W,3,2,Manchester City
+322,Real Madrid,Champions Lg,Home,W,3,1,Manchester City
+323,Real Madrid,La Liga,Away,L,1,2,Real Betis
+324,Real Madrid,Champions Lg,Home,W,2,1,Atlético Madrid
+325,Real Madrid,Champions Lg,Away,L,0 (4),1 (2),Atlético Madrid
+326,Real Madrid,La Liga,Away,W,2,1,Villarreal
+327,Real Madrid,Champions Lg,Away,L,0,3,Arsenal
+328,Real Madrid,Champions Lg,Home,L,1,2,Arsenal
+329,Real Madrid,Copa del Rey,Away,L,2,3,Barcelona
+330,Real Madrid,La Liga,Away,L,3,4,Barcelona
+331,Real Madrid,Club World Cup,Neutral,W,3,2,Dortmund
+332,Real Madrid,Club World Cup,Neutral,L,0,4,Paris SG
+333,Real Madrid,La Liga,Away,L,2,5,Atlético Madrid
+334,Real Madrid,La Liga,Home,W,3,1,Villarreal
+335,Real Madrid,La Liga,Home,W,2,1,Barcelona
+336,Real Madrid,Champions Lg,Away,L,0,1,Liverpool
+337,Real Madrid,Champions Lg,Home,L,1,2,Manchester City
+338,Real Madrid,La Liga,Home,W,5,1,Real Betis
+339,Real Madrid,Supercopa de España,Neutral,W,2,1,Atlético Madrid
+340,Real Madrid,Supercopa de España,Neutral,L,2,3,Barcelona
+341,Real Madrid,La Liga,Away,W,2,0,Villarreal
+342,Real Madrid,Champions Lg,Home,W,3,0,Manchester City
+343,Real Madrid,Champions Lg,Away,W,2,1,Manchester City
+344,Real Madrid,La Liga,Home,W,3,2,Atlético Madrid
+345,Real Madrid,Champions Lg,Home,L,1,2,Bayern Munich
+346,Real Madrid,Champions Lg,Away,L,3,4,Bayern Munich
+347,Real Madrid,La Liga,Away,D,1,1,Real Betis
+348,Real Madrid,La Liga,Away,L,0,2,Barcelona
+349,Real Madrid,La Liga,Away,L,0,1,Real Betis
+350,Real Madrid,Champions Lg,Home,W,2,1,Inter
+351,Real Madrid,La Liga,Away,L,1,2,Atlético Madrid
+352,Atletico Madrid,La Liga,Away,D,2,2,Villarreal
+353,Atletico Madrid,Champions Lg,Home,W,2,1,RB Leipzig
+354,Atletico Madrid,La Liga,Home,D,1,1,Real Madrid
+355,Atletico Madrid,Champions Lg,Home,L,1,3,Lille
+356,Atletico Madrid,La Liga,Away,L,0,1,Real Betis
+357,Atletico Madrid,Champions Lg,Away,W,2,1,Paris SG
+358,Atletico Madrid,Champions Lg,Home,W,3,1,Slovan Bratislava
+359,Atletico Madrid,La Liga,Away,W,2,1,Barcelona
+360,Atletico Madrid,La Liga,Home,D,1,1,Villarreal
+361,Atletico Madrid,La Liga,Away,D,1,1,Real Madrid
+362,Atletico Madrid,Copa del Rey,Away,D,4,4,Barcelona
+363,Atletico Madrid,Champions Lg,Away,L,1,2,Real Madrid
+364,Atletico Madrid,Champions Lg,Home,W,1 (2),0 (4),Real Madrid
+365,Atletico Madrid,La Liga,Home,L,2,4,Barcelona
+366,Atletico Madrid,Copa del Rey,Home,L,0,1,Barcelona
+367,Atletico Madrid,La Liga,Home,W,4,1,Real Betis
+368,Atletico Madrid,Club World Cup,Neutral,L,0,4,Paris SG
+369,Atletico Madrid,La Liga,Home,W,2,0,Villarreal
+370,Atletico Madrid,Champions Lg,Away,L,2,3,Liverpool
+371,Atletico Madrid,La Liga,Home,W,5,2,Real Madrid
+372,Atletico Madrid,Champions Lg,Away,L,0,4,Arsenal
+373,Atletico Madrid,La Liga,Away,W,2,0,Real Betis
+374,Atletico Madrid,Champions Lg,Home,W,2,1,Inter
+375,Atletico Madrid,La Liga,Away,L,1,3,Barcelona
+376,Atletico Madrid,Champions Lg,Away,W,3,2,PSV
+377,Atletico Madrid,Supercopa de España,Neutral,L,1,2,Real Madrid
+378,Atletico Madrid,Champions Lg,Away,D,1,1,Galatasaray
+379,Atletico Madrid,Champions Lg,Home,L,1,2,Bodø/Glimt
+380,Atletico Madrid,Copa del Rey,Away,W,5,0,Real Betis
+381,Atletico Madrid,La Liga,Home,L,0,1,Real Betis
+382,Atletico Madrid,Copa del Rey,Home,W,4,0,Barcelona
+383,Atletico Madrid,Champions Lg,Away,D,3,3,Club Brugge
+384,Atletico Madrid,Champions Lg,Home,W,4,1,Club Brugge
+385,Atletico Madrid,Copa del Rey,Away,L,0,3,Barcelona
+386,Atletico Madrid,La Liga,Away,L,2,3,Real Madrid
+387,Atletico Madrid,La Liga,Home,L,1,2,Barcelona
+388,Atletico Madrid,Champions Lg,Away,W,2,0,Barcelona
+389,Atletico Madrid,Champions Lg,Home,L,1,2,Barcelona
+390,Atletico Madrid,Champions Lg,Home,D,1,1,Arsenal
+391,Atletico Madrid,Champions Lg,Away,L,0,1,Arsenal
+392,Atletico Madrid,La Liga,Away,L,1,5,Villarreal
+393,Atletico Madrid,La Liga,Home,D,2,2,Villarreal
+394,Atletico Madrid,Champions Lg,Away,L,1,2,Liverpool
+395,Atletico Madrid,La Liga,Home,W,2,1,Real Madrid
+396,Villareal,La Liga,Home,D,2,2,Atlético Madrid
+397,Villareal,La Liga,Home,L,1,5,Barcelona
+398,Villareal,La Liga,Away,L,0,2,Real Madrid
+399,Villareal,La Liga,Home,L,1,2,Real Betis
+400,Villareal,La Liga,Away,D,1,1,Atlético Madrid
+401,Villareal,La Liga,Home,L,1,2,Real Madrid
+402,Villareal,La Liga,Away,W,2,1,Real Betis
+403,Villareal,La Liga,Away,W,3,2,Barcelona
+404,Villareal,La Liga,Away,L,0,2,Atlético Madrid
+405,Villareal,La Liga,Away,L,1,3,Real Madrid
+406,Villareal,La Liga,Home,D,2,2,Real Betis
+407,Villareal,Champions Lg,Home,L,0,2,Manchester City
+408,Villareal,Champions Lg,Away,L,0,4,Dortmund
+409,Villareal,La Liga,Home,L,0,2,Barcelona
+410,Villareal,La Liga,Away,L,0,2,Real Betis
+411,Villareal,La Liga,Home,L,0,2,Real Madrid
+412,Villareal,La Liga,Away,L,1,4,Barcelona
+413,Villareal,La Liga,Home,W,5,1,Atlético Madrid
+414,Villareal,La Liga,Away,D,2,2,Atlético Madrid
+415,Villareal,Champions Lg,Away,L,2,3,Dortmund
+416,Villareal,La Liga,Home,L,1,2,Real Betis
+417,Real Betis,La Liga,Away,L,0,2,Real Madrid
+418,Real Betis,La Liga,Home,W,1,0,Atlético Madrid
+419,Real Betis,La Liga,Home,D,2,2,Barcelona
+420,Real Betis,La Liga,Away,W,2,1,Villarreal
+421,Real Betis,Copa del Rey,Away,L,1,5,Barcelona
+422,Real Betis,La Liga,Home,W,2,1,Real Madrid
+423,Real Betis,La Liga,Away,D,1,1,Barcelona
+424,Real Betis,La Liga,Home,L,1,2,Villarreal
+425,Real Betis,La Liga,Away,L,1,4,Atlético Madrid
+426,Real Betis,La Liga,Away,D,2,2,Villarreal
+427,Real Betis,La Liga,Home,L,0,2,Atlético Madrid
+428,Real Betis,La Liga,Home,L,3,5,Barcelona
+429,Real Betis,La Liga,Away,L,1,5,Real Madrid
+430,Real Betis,La Liga,Home,W,2,0,Villarreal
+431,Real Betis,Europa Lg,Home,W,2,1,Feyenoord
+432,Real Betis,Copa del Rey,Home,L,0,5,Atlético Madrid
+433,Real Betis,La Liga,Away,W,1,0,Atlético Madrid
+434,Real Betis,La Liga,Home,D,1,1,Real Madrid
+435,Real Betis,La Liga,Away,L,1,3,Barcelona
+436,Real Betis,La Liga,Home,W,1,0,Real Madrid
+437,Real Betis,Champions Lg,Away,W,3,2,Lille
+438,Real Betis,La Liga,Away,W,2,1,Villarreal
+439,Inter Milan,Champions Lg,Away,D,0,0,Manchester City
+440,Inter Milan,Serie A,Away,W,1,0,Roma
+441,Inter Milan,Champions Lg,Home,W,1,0,Arsenal
+442,Inter Milan,Serie A,Home,D,1,1,Napoli
+443,Inter Milan,Champions Lg,Home,W,1,0,RB Leipzig
+444,Inter Milan,Serie A,Home,W,2,0,Como
+445,Inter Milan,Serie A,Away,D,1,1,Napoli
+446,Inter Milan,Champions Lg,Away,W,2,0,Feyenoord
+447,Inter Milan,Champions Lg,Home,W,2,1,Feyenoord
+448,Inter Milan,Champions Lg,Away,W,2,1,Bayern Munich
+449,Inter Milan,Champions Lg,Home,D,2,2,Bayern Munich
+450,Inter Milan,Serie A,Home,L,0,1,Roma
+451,Inter Milan,Champions Lg,Away,D,3,3,Barcelona
+452,Inter Milan,Champions Lg,Home,W,4,3,Barcelona
+453,Inter Milan,Serie A,Away,W,2,0,Como
+454,Inter Milan,Champions Lg,Neutral,L,0,5,Paris SG
+455,Inter Milan,Champions Lg,Home,W,3,0,Slavia Prague
+456,Inter Milan,Serie A,Away,W,1,0,Roma
+457,Inter Milan,Serie A,Away,L,1,3,Napoli
+458,Inter Milan,Champions Lg,Away,L,1,2,Atlético Madrid
+459,Inter Milan,Serie A,Home,W,4,0,Como
+460,Inter Milan,Champions Lg,Home,L,0,1,Liverpool
+461,Inter Milan,Serie A,Home,D,2,2,Napoli
+462,Inter Milan,Champions Lg,Home,L,1,3,Arsenal
+463,Inter Milan,Champions Lg,Away,W,2,0,Dortmund
+464,Inter Milan,Champions Lg,Away,L,1,3,Bodø/Glimt
+465,Inter Milan,Champions Lg,Home,L,1,2,Bodø/Glimt
+466,Inter Milan,Coppa Italia,Away,D,0,0,Como
+467,Inter Milan,Serie A,Home,W,5,2,Roma
+468,Inter Milan,Serie A,Away,W,4,3,Como
+469,Inter Milan,Coppa Italia,Home,W,3,2,Como
+470,Inter Milan,Serie A,Home,W,3,2,Napoli
+471,Inter Milan,Champions Lg,Away,L,1,2,Real Madrid
+472,Inter Milan,Serie A,Away,D,2,2,Roma
+473,Napoli,Serie A,Home,W,3,1,Como
+474,Napoli,Serie A,Away,D,1,1,Inter
+475,Napoli,Serie A,Home,W,1,0,Roma
+476,Napoli,Serie A,Away,D,1,1,Roma
+477,Napoli,Serie A,Away,L,1,2,Como
+478,Napoli,Serie A,Home,D,1,1,Inter
+479,Napoli,Champions Lg,Away,L,0,2,Manchester City
+480,Napoli,Champions Lg,Home,W,2,1,Sporting CP
+481,Napoli,Champions Lg,Away,L,2,6,PSV
+482,Napoli,Serie A,Home,W,3,1,Inter
+483,Napoli,Serie A,Home,D,0,0,Como
+484,Napoli,Serie A,Away,W,1,0,Roma
+485,Napoli,Serie A,Away,D,2,2,Inter
+486,Napoli,Coppa Italia,Home,D,1 (6),1 (7),Como
+487,Napoli,Serie A,Home,D,2,2,Roma
+488,Napoli,Serie A,Away,D,0,0,Como
+489,Napoli,Serie A,Home,L,1,2,Como
+490,Napoli,Serie A,Away,L,2,3,Inter
+491,Napoli,Champions Lg,Home,L,0,1,Arsenal
+492,Roma,Serie A,Home,L,0,1,Inter
+493,Roma,Serie A,Away,L,0,1,Napoli
+494,Roma,Serie A,Away,L,0,2,Como
+495,Roma,Serie A,Home,D,1,1,Napoli
+496,Roma,Europa Lg,Away,D,1,1,Porto
+497,Roma,Europa Lg,Home,W,3,2,Porto
+498,Roma,Serie A,Home,W,2,1,Como
+499,Roma,Serie A,Away,W,1,0,Inter
+500,Roma,Europa Lg,Home,L,0,1,Lille
+501,Roma,Serie A,Home,L,0,1,Inter
+502,Roma,Serie A,Home,L,0,1,Napoli
+503,Roma,Serie A,Home,W,1,0,Como
+504,Roma,Europa Lg,Home,W,2,0,Stuttgart
+505,Roma,Serie A,Away,D,2,2,Napoli
+506,Roma,Serie A,Away,L,1,2,Como
+507,Roma,Serie A,Away,L,2,5,Inter
+508,Roma,Champions Lg,Away,D,1,1,Fenerbahçe
+509,Roma,Serie A,Home,D,2,2,Inter
+510,Como,Serie A,Away,L,1,3,Napoli
+511,Como,Serie A,Home,W,2,0,Roma
+512,Como,Serie A,Away,L,0,2,Inter
+513,Como,Serie A,Home,W,2,1,Napoli
+514,Como,Serie A,Away,L,1,2,Roma
+515,Como,Serie A,Home,L,0,2,Inter
+516,Como,Serie A,Away,D,0,0,Napoli
+517,Como,Serie A,Away,L,0,4,Inter
+518,Como,Serie A,Away,L,0,1,Roma
+519,Como,Coppa Italia,Away,D,1 (7),1 (6),Napoli
+520,Como,Coppa Italia,Home,D,0,0,Inter
+521,Como,Serie A,Home,W,2,1,Roma
+522,Como,Serie A,Home,L,3,4,Inter
+523,Como,Coppa Italia,Away,L,2,3,Inter
+524,Como,Serie A,Home,D,0,0,Napoli
+525,Como,Serie A,Away,W,2,1,Napoli
+526,Como,Champions Lg,Home,W,4,1,RB Leipzig
+527,PSG,Ligue 1,Away,W,3,1,Lille
+528,PSG,Champions Lg,Away,L,0,2,Arsenal
+529,PSG,Champions Lg,Home,D,1,1,PSV
+530,PSG,Ligue 1,Home,W,1,0,Lens
+531,PSG,Champions Lg,Home,L,1,2,Atlético Madrid
+532,PSG,Champions Lg,Away,L,0,1,Bayern Munich
+533,PSG,Coupe de France,Away,D,1 (4),1 (3),Lens
+534,PSG,Ligue 1,Away,W,2,1,Lens
+535,PSG,Champions Lg,Home,W,4,2,Manchester City
+536,PSG,Champions Lg,Away,W,4,1,Stuttgart
+537,PSG,Ligue 1,Home,W,4,1,Lille
+538,PSG,Champions Lg,Home,L,0,1,Liverpool
+539,PSG,Champions Lg,Away,W,1 (4),0 (1),Liverpool
+540,PSG,Champions Lg,Home,W,3,1,Aston Villa
+541,PSG,Champions Lg,Away,L,2,3,Aston Villa
+542,PSG,Champions Lg,Away,W,1,0,Arsenal
+543,PSG,Champions Lg,Home,W,2,1,Arsenal
+544,PSG,Champions Lg,Neutral,W,5,0,Inter
+545,PSG,Club World Cup,Neutral,W,4,0,Atlético Madrid
+546,PSG,Club World Cup,Neutral,W,2,0,Bayern Munich
+547,PSG,Club World Cup,Neutral,W,4,0,Real Madrid
+548,PSG,Ligue 1,Home,W,2,0,Lens
+549,PSG,Champions Lg,Away,W,2,1,Barcelona
+550,PSG,Ligue 1,Away,D,1,1,Lille
+551,PSG,Champions Lg,Home,L,1,2,Bayern Munich
+552,PSG,Ligue 1,Home,W,3,0,Lille
+553,PSG,Champions Lg,Away,L,1,2,Sporting CP
+554,PSG,Champions Lg,Home,W,2,0,Liverpool
+555,PSG,Champions Lg,Away,W,2,0,Liverpool
+556,PSG,Champions Lg,Home,W,5,4,Bayern Munich
+557,PSG,Champions Lg,Away,D,1,1,Bayern Munich
+558,PSG,Ligue 1,Away,W,2,0,Lens
+559,PSG,Champions Lg,Neutral,D,1 (4),1 (3),Arsenal
+560,PSG,Super Cup,Neutral,W,2,1,Aston Villa
+561,PSG,TrophÃ©e des Champions,Away,L,0,1,Lens
+562,PSG,Ligue 1,Away,D,2,2,Lille
+563,PSG,Champions Lg,Home,W,6,1,Slovan Bratislava
+564,RC Lens,Ligue 1,Home,L,0,2,Lille
+565,RC Lens,Ligue 1,Away,L,0,1,Paris SG
+566,RC Lens,Coupe de France,Home,D,1 (3),1 (4),Paris SG
+567,RC Lens,Ligue 1,Home,L,1,2,Paris SG
+568,RC Lens,Ligue 1,Away,L,0,1,Lille
+569,RC Lens,Ligue 1,Away,L,0,2,Paris SG
+570,RC Lens,Ligue 1,Home,W,3,0,Lille
+571,RC Lens,Ligue 1,Away,L,0,3,Lille
+572,RC Lens,Ligue 1,Home,L,0,2,Paris SG
+573,RC Lens,Trophée des Champions,Home,W,1,0,Paris SG
+574,RC Lens,Champions Lg,Away,W,3,2,Slavia Prague
+575,Lille,Champions Lg,Home,W,2,0,Slavia Prague
+576,Lille,Champions Lg,Away,L,1,2,Slavia Prague
+577,Lille,Ligue 1,Home,L,1,3,Paris SG
+578,Lille,Champions Lg,Away,L,0,2,Sporting CP
+579,Lille,Champions Lg,Home,W,1,0,Real Madrid
+580,Lille,Champions Lg,Away,W,3,1,Atlético Madrid
+581,Lille,Ligue 1,Away,W,2,0,Lens
+582,Lille,Champions Lg,Away,L,1,2,Liverpool
+583,Lille,Champions Lg,Home,W,6,1,Feyenoord
+584,Lille,Ligue 1,Away,L,1,4,Paris SG
+585,Lille,Champions Lg,Away,D,1,1,Dortmund
+586,Lille,Champions Lg,Home,L,1,2,Dortmund
+587,Lille,Ligue 1,Home,W,1,0,Lens
+588,Lille,Ligue 1,Away,L,0,3,Lens
+589,Lille,Europa Lg,Away,W,1,0,Roma
+590,Lille,Ligue 1,Home,D,1,1,Paris SG
+591,Lille,Ligue 1,Away,L,0,3,Paris SG
+592,Lille,Europa Lg,Home,L,0,1,Aston Villa
+593,Lille,Europa Lg,Away,L,0,2,Aston Villa
+594,Lille,Ligue 1,Home,W,3,0,Lens
+595,Lille,Ligue 1,Home,D,2,2,Paris SG
+596,Lille,Champions Lg,Home,L,2,3,Real Betis
+597,Porto,Primeira Liga,Away,L,0,2,Sporting CP
+598,Porto,Europa Lg,Away,L,2,3,Bodø/Glimt
+599,Porto,Europa Lg,Home,D,3,3,Manchester Utd
+600,Porto,Primeira Liga,Home,D,1,1,Sporting CP
+601,Porto,Europa Lg,Home,D,1,1,Roma
+602,Porto,Europa Lg,Away,L,2,3,Roma
+603,Porto,Primeira Liga,Away,W,2,1,Sporting CP
+604,Porto,Primeira Liga,Home,D,1,1,Sporting CP
+605,Porto,Europa Lg,Away,W,2,1,Stuttgart
+606,Porto,Europa Lg,Home,W,2,0,Stuttgart
+607,Porto,Champions Lg,Home,L,0,2,Manchester City
+608,PSV,Champions Lg,Home,D,1,1,Sporting CP
+609,PSV,Champions Lg,Away,D,1,1,Paris SG
+610,PSV,Champions Lg,Home,W,3,2,Shakhtar D.
+611,PSV,Eredivisie,Home,W,3,0,Feyenoord
+612,PSV,Champions Lg,Home,W,3,2,Liverpool
+613,PSV,Champions Lg,Home,L,1,7,Arsenal
+614,PSV,Champions Lg,Away,D,2,2,Arsenal
+615,PSV,Eredivisie,Away,W,3,2,Feyenoord
+616,PSV,Champions Lg,Home,W,6,2,Napoli
+617,PSV,Eredivisie,Away,W,3,2,Feyenoord
+618,PSV,Champions Lg,Away,W,4,1,Liverpool
+619,PSV,Champions Lg,Home,L,2,3,Atlético Madrid
+620,PSV,Champions Lg,Home,L,1,2,Bayern Munich
+621,PSV,Eredivisie,Home,W,3,0,Feyenoord
+622,PSV,Champions Lg,Home,D,1,1,Shakhtar D.
+623,Feyenoord,Champions Lg,Away,D,3,3,Manchester City
+624,Feyenoord,Eredivisie,Away,L,0,3,PSV
+625,Feyenoord,Champions Lg,Home,W,3,0,Bayern Munich
+626,Feyenoord,Champions Lg,Away,L,1,6,Lille
+627,Feyenoord,Champions Lg,Home,L,0,2,Inter
+628,Feyenoord,Champions Lg,Away,L,1,2,Inter
+629,Feyenoord,Eredivisie,Home,L,2,3,PSV
+630,Feyenoord,Champions Lg,Home,W,2,1,Fenerbahçe
+631,Feyenoord,Europa Lg,Home,L,0,2,Aston Villa
+632,Feyenoord,Eredivisie,Home,L,2,3,PSV
+633,Feyenoord,Europa Lg,Away,L,0,2,Stuttgart
+634,Feyenoord,Europa Lg,Away,L,1,2,Real Betis
+635,Feyenoord,Eredivisie,Away,L,0,3,PSV
+636,Feyenoord,Champions Lg,Away,L,1,5,Barcelona
+637,Galatasaray,Champions Lg,Home,W,1,0,Liverpool
+638,Galatasaray,Champions Lg,Home,W,3,1,Bodø/Glimt
+639,Galatasaray,Champions Lg,Home,D,1,1,Atlético Madrid
+640,Galatasaray,Champions Lg,Away,L,0,2,Manchester City
+641,Galatasaray,Champions Lg,Home,W,1,0,Liverpool
+642,Galatasaray,Champions Lg,Away,L,0,4,Liverpool
+643,Galatasaray,Champions Lg,Away,L,1,3,Sporting CP
+644,Slavia Prague,Champions Lg,Away,L,0,2,Lille
+645,Slavia Prague,Champions Lg,Home,W,2,1,Lille
+646,Slavia Prague,Europa Lg,Home,L,1,2,Fenerbahçe
+647,Slavia Prague,Champions Lg,Home,D,2,2,Bodø/Glimt
+648,Slavia Prague,Champions Lg,Away,L,0,3,Inter
+649,Slavia Prague,Champions Lg,Home,L,0,3,Arsenal
+650,Slavia Prague,Champions Lg,Home,L,2,4,Barcelona
+651,Slavia Prague,Champions Lg,Home,L,2,3,Lens
+652,Shakhtar Donetskk,Champions Lg,Away,L,0,1,Arsenal
+653,Shakhtar Donetskk,Champions Lg,Away,L,2,3,PSV
+654,Shakhtar Donetskk,Champions Lg,Home,L,1,5,Bayern Munich
+655,Shakhtar Donetskk,Champions Lg,Away,L,1,3,Dortmund
+656,Shakhtar Donetskk,Champions Lg,Away,D,1,1,PSV
+657,Sporting,Primeira Liga,Home,W,2,0,Porto
+658,Sporting,Champions Lg,Home,W,2,0,Lille
+659,Sporting,Champions Lg,Away,D,1,1,PSV
+660,Sporting,Champions Lg,Home,W,4,1,Manchester City
+661,Sporting,Champions Lg,Home,L,1,5,Arsenal
+662,Sporting,Champions Lg,Away,L,1,2,Club Brugge
+663,Sporting,Champions Lg,Away,L,1,2,RB Leipzig
+664,Sporting,Primeira Liga,Away,D,1,1,Porto
+665,Sporting,Champions Lg,Home,L,0,3,Dortmund
+666,Sporting,Champions Lg,Away,D,0,0,Dortmund
+667,Sporting,Primeira Liga,Home,L,1,2,Porto
+668,Sporting,Champions Lg,Away,L,1,2,Napoli
+669,Sporting,Champions Lg,Home,W,3,0,Club Brugge
+670,Sporting,Champions Lg,Away,L,1,3,Bayern Munich
+671,Sporting,Champions Lg,Home,W,2,1,Paris SG
+672,Sporting,Primeira Liga,Away,D,1,1,Porto
+673,Sporting,Champions Lg,Away,L,0,3,Bodø/Glimt
+674,Sporting,Champions Lg,Home,W,5,0,Bodø/Glimt
+675,Sporting,Champions Lg,Home,L,0,1,Arsenal
+676,Sporting,Champions Lg,Away,D,0,0,Arsenal
+677,Sporting,Champions Lg,Home,W,3,1,Galatasaray
+678,Club Brugge,Champions Lg,Home,L,0,3,Dortmund
+679,Club Brugge,Champions Lg,Home,W,1,0,Aston Villa
+680,Club Brugge,Champions Lg,Home,W,2,1,Sporting CP
+681,Club Brugge,Champions Lg,Away,L,1,3,Manchester City
+682,Club Brugge,Champions Lg,Home,L,1,3,Aston Villa
+683,Club Brugge,Champions Lg,Away,L,0,3,Aston Villa
+684,Club Brugge,Champions Lg,Away,L,0,4,Bayern Munich
+685,Club Brugge,Champions Lg,Home,D,3,3,Barcelona
+686,Club Brugge,Champions Lg,Away,L,0,3,Sporting CP
+687,Club Brugge,Champions Lg,Home,L,0,3,Arsenal
+688,Club Brugge,Champions Lg,Home,D,3,3,Atlético Madrid
+689,Club Brugge,Champions Lg,Away,L,1,4,Atlético Madrid
+690,Club Brugge,Champions Lg,Home,L,2,3,Aston Villa
+691,Lask,Champions Lg,Away,L,0,1,AEK Athens
+692,Slovan,Champions Lg,Home,L,0,4,Manchester City
+693,Slovan,Champions Lg,Away,L,1,3,Atlético Madrid
+694,Slovan,Champions Lg,Home,L,1,3,Stuttgart
+695,Slovan,Champions Lg,Away,L,1,3,Bayern Munich
+696,Slovan,Champions Lg,Away,L,1,6,Paris SG
+697,Fenerbahce,Europa Lg,Home,D,1,1,Manchester Utd
+698,Fenerbahce,Europa Lg,Away,W,2,1,Slavia Prague
+699,Fenerbahce,Champions Lg,Away,L,1,2,Feyenoord
+700,Fenerbahce,Europa Lg,Home,W,1,0,Stuttgart
+701,Fenerbahce,Europa Lg,Home,L,0,1,Aston Villa
+702,Fenerbahce,Champions Lg,Home,D,1,1,Roma
+703,Bodø Glimt,Europa Lg,Home,W,3,2,Porto
+704,Bodø Glimt,Europa Lg,Away,L,2,3,Manchester Utd
+705,Bodø Glimt,Eliteserien,Home,L,2,4,Viking
+706,Bodø Glimt,Eliteserien,Away,W,4,2,Viking
+707,Bodø Glimt,Champions Lg,Away,D,2,2,Slavia Prague
+708,Bodø Glimt,Champions Lg,Away,L,1,3,Galatasaray
+709,Bodø Glimt,Champions Lg,Away,D,2,2,Dortmund
+710,Bodø Glimt,Champions Lg,Home,W,3,1,Manchester City
+711,Bodø Glimt,Champions Lg,Away,W,2,1,Atlético Madrid
+712,Bodø Glimt,Champions Lg,Home,W,3,1,Inter
+713,Bodø Glimt,Champions Lg,Away,W,2,1,Inter
+714,Bodø Glimt,Champions Lg,Home,W,3,0,Sporting CP
+715,Bodø Glimt,Champions Lg,Away,L,0,5,Sporting CP
+716,Bodø Glimt,Eliteserien,Away,L,0,5,Viking
+717,Viking FK,Eliteserien,Away,W,4,2,Bodø/Glimt
+718,Viking FK,Eliteserien,Home,L,2,4,Bodø/Glimt
+719,Viking FK,Eliteserien,Home,W,5,0,Bodø/Glimt
+720,Viking FK,Champions Lg,Away,L,1,3,Stuttgart
+721,Sabah,Champions Lg,Away,L,0,4,Manchester Utd
+722,AEK Athens,Champions Lg,Home,W,1,0,LASK
+723,RC Lens,Champions Lg,Home,L,0,2,Sporting CP
+724,Sabah FK,Champions Lg,Home,W,2,0,SK Slavia Praha
+725,Arsenal,Champions Lg,Home,W,3,0,LOSC Lille
+726,Atl�tico Madrid,Champions Lg,Home,W,2,0,Manchester United
+727,Inter Milan,Champions Lg,Home,L,3,4,Club Brugge
+728,Galatasaray,Champions Lg,Home,L,1,4,FC Barcelona
+729,RB Leipzig,Champions Lg,Home,W,1,0,PSV Eindhoven
+730,Viking FK,Champions Lg,Home,D,3,3,FC Bayern M�nchen
+731,Villarreal,Champions Lg,Home,W,3,1,SSC Napoli
+732,Feyenoord,Champions Lg,Home,W,3,2,Como 1907
+733,LASK,Champions Lg,Home,L,3,6,Liverpool
+734,AS Roma,Champions Lg,Home,L,3,4,Real Madrid
+735,Aston Villa,Champions Lg,Home,W,6,0,Fenerbah�e
+736,FC Shakhtar Donetsk,Champions Lg,Home,W,3,1,AEK Athens
+737,Bod�/Glimt,Champions Lg,Home,W,1,0,Borussia Dortmund
+738,Manchester City,Champions Lg,Home,L,2,4,Paris Saint-Germain
+739,Real Betis,Champions Lg,Home,W,3,2,FC Porto
+740,Slovan Bratislava,Champions Lg,Home,L,0,3,VfB Stuttgart
