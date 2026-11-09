@@ -45,6 +45,9 @@ The full methodology, theory, and references are in the PDF paper in `docs/` (wr
 ├── data/
 │   ├── Before_Hope.csv     # per-team match results (Team, Comp, Venue, Result, GF, GA, Opponent)
 │   └── UCL.xlsx            # 36 teams: club coefficient, market value, ELO
+├── pictures/
+│   ├── Probability_The_Winner_of_UCL.png   # knockout bracket and probabilities
+│   └── Club_Clustering.png                 # points vs title probability clustering   
 └── R/
     ├── Bradley_Terry_Original.R
     ├── Bradley_Terry_With_David_Modification.R
