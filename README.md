@@ -1,0 +1,2 @@
+# Predicted-The-Winner-of-UCL-Season-26-27-with-Bradley-Terry-Epsilon-Model
+In this Github, We will be predicted the 2026/2027 UEFA Champions League winner using Bradley-Terry models: David (league phase), Agresti (knockout), and the conventional model (final), with penalized likelihood. Teams with low title chances are advised to win against Pot 3–4 opponents and draw against Pot 1–2 to reach the playoffs.
